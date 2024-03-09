@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(168, 32, 32) ;
+    color: whitesmoke;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    text-align: center;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+}
